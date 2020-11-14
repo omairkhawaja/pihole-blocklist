@@ -967,6 +967,7 @@
 0.0.0.0	wingamestore.com
 0.0.0.0	wol.gg
 0.0.0.0	worldofwarcraft.com
+0.0.0.0 www.a10.com
 0.0.0.0	www.achievementstats.com
 0.0.0.0	www.aiononline.com
 0.0.0.0	www.allkeyshop.com
