@@ -20,6 +20,10 @@
 0.0.0.0 slither.io
 0.0.0.0 lagged.com
 0.0.0.0 ufreegames.com
+0.0.0.0 dab3games.com
+0.0.0.0 gamesbutler.com
+0.0.0.0 lagged.com.br
+0.0.0.0 drawthis.io
 0.0.0.0 kologame.com
 0.0.0.0 wormate.io
 0.0.0.0 wormax.io
