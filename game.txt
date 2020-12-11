@@ -1,4 +1,16 @@
 0.0.0.0	0.0.0.0
+0.0.0.0 littlebigsnake.com
+0.0.0.0 hexar.io
+0.0.0.0 gameforge.com
+0.0.0.0 crazygames.fr
+0.0.0.0 crazygames.com
+0.0.0.0 poki.com
+0.0.0.0 gamepix.com
+0.0.0.0 titotu.io
+0.0.0.0 iogames.space
+0.0.0.0 tap.io
+0.0.0.0 kibagames.com
+0.0.0.0 gameflare.com
 0.0.0.0 slither.io
 0.0.0.0 wormate.io
 0.0.0.0 wormax.io
