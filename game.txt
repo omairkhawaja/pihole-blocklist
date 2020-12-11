@@ -7,6 +7,11 @@
 0.0.0.0 gameforge.com
 0.0.0.0 crazygames.fr
 0.0.0.0 crazygames.com
+0.0.0.0 builds.crazygames.com
+0.0.0.0 workers.crazygames.com
+0.0.0.0 videos.crazygames.com
+0.0.0.0 images.crazygames.com
+0.0.0.0 www.crazygames.com
 0.0.0.0 poki.com
 0.0.0.0 gamepix.com
 0.0.0.0 titotu.io
