@@ -21,6 +21,7 @@
 0.0.0.0 lagged.com
 0.0.0.0 ufreegames.io
 0.0.0.0 ufreegames.com
+0.0.0.0 www.ufreegames.com
 0.0.0.0 dab3games.com
 0.0.0.0 gamesbutler.com
 0.0.0.0 lagged.com.br
