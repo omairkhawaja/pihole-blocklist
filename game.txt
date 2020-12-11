@@ -1,5 +1,8 @@
 0.0.0.0	0.0.0.0
 0.0.0.0 littlebigsnake.com
+0.0.0.0 mmogames.com
+0.0.0.0 playretrogames.com
+0.0.0.0 arkadium.com
 0.0.0.0 hexar.io
 0.0.0.0 gameforge.com
 0.0.0.0 crazygames.fr
@@ -8,6 +11,7 @@
 0.0.0.0 gamepix.com
 0.0.0.0 titotu.io
 0.0.0.0 iogames.space
+0.0.0.0 pffg.online
 0.0.0.0 tap.io
 0.0.0.0 kibagames.com
 0.0.0.0 gameflare.com
